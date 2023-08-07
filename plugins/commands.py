@@ -81,7 +81,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🤖 Join Updates Channel", url=url='https://t.me/GT_MOVIES1'.'https://t.me/GT_MOVIES1'
+                    "🤖 Join Updates Channel", url=invite_link.invite_link
                 )
             ]
         ]

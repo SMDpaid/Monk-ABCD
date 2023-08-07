@@ -27,7 +27,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ғʀᴇᴇ ʜᴏsᴛɪɴɢ
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/GT_MOVIES1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/QTVS_BOT_X_CLOUD>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
+🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/GT_MOVIES1>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @GT_MOVIES1
 

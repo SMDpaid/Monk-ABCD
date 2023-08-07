@@ -80,11 +80,9 @@ async def start(client, message):
             return
         btn = [
             [
-                InlineKeyboardButton(
-                    "🤖 Jᴏɪɴ Uᴩᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 😜", url=invite_link.invite_link
-                )
+                InlineKeyboardButton("🤖 Jᴏɪɴ Uᴩᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 😜", url='https://t.me/GT_MOVIES1')
             ]
-        ]
+         ]
 
         if message.command[1] != "subscribe":
             try:
